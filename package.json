@@ -1,0 +1,23 @@
+{
+  "name": "clase14_9",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.0.3",
+    "card-validator": "^5.1.0",
+    "react": "^16.5.0",
+    "react-credit-card-input": "^1.0.15",
+    "react-credit-cards": "^0.7.0",
+    "react-dom": "^16.5.0",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-country-region-selector": "^1.4.1"
+  }
+}

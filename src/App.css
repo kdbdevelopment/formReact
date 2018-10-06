@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.App-title {
+  font-size: 1.5em;
+}
+.App-intro {
+  font-size: large;
+}
+.Boton{
+  margin-top: 2%;
+}
+.body{
+background:url("https://www.publiink.com/wp-content/uploads/2016/05/fondo-formulario-fullpage.png");
+text-align: center;
+font-size: 1em;
+color:black;
+font-weight: bold;
+}
+free{
+  font-size: 4em;
+}
+.mensajeFinal{
+  text-align: center;
+  font-size: 2em;
+  color: black;
+  background-color: skyblue;
+  padding-top: 3%;
+}
+.title{
+  color:black;
+}
+.Error{
+  color:red;
+  text-align: center;
+  font-size: 2em;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
